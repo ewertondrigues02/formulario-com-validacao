@@ -35,8 +35,6 @@ Copiar código
 
 ---
 
----
-
 ## 📦 Como Usar
 
 ### 🔹 Clonar o repositório:
