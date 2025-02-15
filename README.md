@@ -37,7 +37,7 @@ Copiar código
 
 ## 🎨 Captura de Tela
 
-![Preview do formulário](https://via.placeholder.com/800x400?text=Formul%C3%A1rio+com+Valida%C3%A7%C3%A3o)
+![Preview do formulário](https://via.placeholder.com/800x400)
 
 ---
 
