@@ -46,6 +46,7 @@ Copiar código
 ### 🔹 Clonar o repositório:
 ```sh
 git clone https://github.com/seu-usuario/meu-formulario-validado.git
+````
 🔹 Abrir o arquivo index.html no navegador.
 ⚡ Melhorias Futuras
 🔹 Adicionar validação em tempo real enquanto o usuário digita.
