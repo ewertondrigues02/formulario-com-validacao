@@ -35,10 +35,6 @@ Copiar código
 
 ---
 
-## 🎨 Captura de Tela
-
-![Preview do formulário](https://via.placeholder.com/800x400)
-
 ---
 
 ## 📦 Como Usar
